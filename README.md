@@ -9,16 +9,23 @@ The system aims to simplify the property search process by identifying user tren
 ⚙️ Features
 
 Personalized residence recommendations
+
 User-based and item-based Collaborative Filtering
+
 Cosine Similarity for similarity measurement
+
 Evaluation using Mean Absolute Error (MAE) and Root Mean Square Error (RMSE)
+
 Simple and user-friendly interface
 
 🛠️ Tech Stack
 
 Programming Language: Python
+
 Frontend: HTML, CSS
+
 Algorithm: Collaborative Filtering (Cosine Similarity)
+
 Evaluation Metrics: MAE, RMSE
 
 
