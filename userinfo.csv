@@ -1,0 +1,81 @@
+user_id,username,password,gender,age,status,preferred_region,preferred_property,budget
+1,user1,1234,Male,19,Studying,Selangor,Apartment / Condominium / Serviced Residence,2000
+2,user2,1234,Female,23,Studying,Selangor,Townhouse,2000
+3,user3,1234,Female,23,Studying,Selangor,Studio,3000
+4,user4,1234,Male,58,Working,Selangor,Apartment / Condominium / Serviced Residence,None
+5,user5,1234,Female,25,Studying,Selangor,Apartment / Condominium / Serviced Residence,2000
+6,user6,1234,Female,27,Working,Selangor,Apartment / Condominium / Serviced Residence,2000
+7,user7,1234,Female,32,None,Kuala Lumpur,Flat,2000
+8,user8,1234,Female,37,Studying,Selangor,Apartment / Condominium / Serviced Residence,3000
+9,user9,1234,Female,32,Working,Kuala Lumpur,Apartment / Condominium / Serviced Residence,2000
+10,user10,1234,Female,27,Studying,Selangor,Apartment / Condominium / Serviced Residence,2000
+11,user11,1234,Female,22,Studying,Selangor,Townhouse,None
+12,user12,1234,Female,49,Working,Selangor,Townhouse,2000
+13,user13,1234,Female,24,Studying,Selangor,Apartment / Condominium / Serviced Residence,1000
+14,user14,1234,Female,25,Working,Selangor,Apartment / Condominium / Serviced Residence,1000
+15,user15,1234,Female,25,Studying,Selangor,Apartment / Condominium / Serviced Residence,2000
+16,user16,1234,Female,25,Working,Selangor,Apartment / Condominium / Serviced Residence,3000
+17,user17,1234,Female,22,Studying,Selangor,Duplex,2000
+18,user18,1234,Male,42,Working,Kuala Lumpur,Apartment / Condominium / Serviced Residence,3000
+19,user19,1234,Male,28,Working,Kuala Lumpur,Studio,2000
+20,user20,1234,Male,19,Studying,Kuala Lumpur,Flat,1000
+21,user21,1234,Male,20,Studying,Selangor,Apartment / Condominium / Serviced Residence,2000
+22,user22,1234,Male,33,Working,Selangor,Townhouse,3000
+23,user23,1234,Male,55,Studying,Selangor,Flat,None
+24,user24,1234,Female,22,Studying,Selangor,Duplex,2000
+25,user25,1234,Male,31,Working,Kuala Lumpur,Flat,1000
+26,user26,1234,Female,22,Studying,Selangor,Townhouse,3000
+27,user27,1234,Male,22,Studying,Selangor,Apartment / Condominium / Serviced Residence,2000
+28,user28,1234,Male,52,Working,Selangor,Apartment / Condominium / Serviced Residence,3000
+29,user29,1234,Male,36,Working,Selangor,Apartment / Condominium / Serviced Residence,3000
+30,user30,1234,Male,21,Studying,Kuala Lumpur,Flat,1000
+31,user31,1234,,,,,,
+32,user32,1234,,,,,,
+33,user33,1234,,,,,,
+34,user34,1234,,,,,,
+35,user35,1234,,,,,,
+36,user36,1234,,,,,,
+37,user37,1234,,,,,,
+38,user38,1234,,,,,,
+39,user39,1234,,,,,,
+40,user40,1234,,,,,,
+41,user41,1234,,,,,,
+42,user42,1234,,,,,,
+43,user43,1234,,,,,,
+44,user44,1234,,,,,,
+45,user45,1234,,,,,,
+46,user46,1234,,,,,,
+47,user47,1234,,,,,,
+48,user48,1234,,,,,,
+49,user49,1234,,,,,,
+50,user50,1234,,,,,,
+51,user51,1234,,,,,,
+52,user52,1234,,,,,,
+53,user53,1234,,,,,,
+54,user54,1234,,,,,,
+55,user55,1234,,,,,,
+56,user56,1234,,,,,,
+57,user57,1234,,,,,,
+58,user58,1234,,,,,,
+59,user59,1234,,,,,,
+60,user60,1234,,,,,,
+61,user61,1234,,,,,,
+62,user62,1234,,,,,,
+63,user63,1234,,,,,,
+64,user64,1234,,,,,,
+65,user65,1234,,,,,,
+66,user66,1234,,,,,,
+67,user67,1234,,,,,,
+68,user68,1234,,,,,,
+69,user69,1234,,,,,,
+70,user70,1234,,,,,,
+71,user71,1234,,,,,,
+72,user72,1234,,,,,,
+73,user73,1234,,,,,,
+74,user74,1234,,,,,,
+75,user75,1234,,,,,,
+76,user76,1234,,,,,,
+77,user77,1234,,,,,,
+78,user78,1234,,,,,,
+79,user79,1234,,,,,,
+80,user80,1234,,,,,,
